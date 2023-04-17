@@ -27,7 +27,7 @@ st.markdown("""
 st.title('Lakshay Chawla - Data Scientist')
 
 # Futuristic Image
-header_image = Image.open('D:\Pictures\BING DALLE\_46c99a36-b4a7-4592-858f-9eeb2af9db3d.jpg')
+header_image = Image.open('spacebottle.jpg')
 st.image(header_image, width=700)
 
 # Introduction
